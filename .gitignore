@@ -1,8 +1,0 @@
-node_modules/*
-bower_components/*
-*/node_modules/*
-*/bower_components/*
-dist/*
-demo/app/dist
-*.sublime-*
-.publish
